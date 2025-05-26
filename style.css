@@ -4,18 +4,18 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Uma fonte moderna e legível */
     margin: 0;
     padding: 0;
-    background-color: #f4f7f6; /* Um fundo bem claro e suave */
-    color: #333;
+    background-color: #f3fdd6; /* Um fundo bem claro e suave */
+    color: #082502;
     line-height: 1.7; /* Melhora a leitura do texto */
 }
 
 /* Estilos do cabeçalho */
 header {
-    background-color: #2ecc71; /* Um verde vibrante e acolhedor */
+    background-color: #a2d8b9; /* Um verde vibrante e acolhedor */
     color: white;
     padding: 30px 20px;
     text-align: center;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 2px 5px rgba(3, 44, 12, 0.15);
 }
 
 header h1 {
@@ -30,7 +30,7 @@ header p {
 
 /* Estilos da barra de navegação */
 nav {
-    background-color: #e7f2f0; /* Um verde bem claro para a navegação */
+    background-color: #d1f8ba; /* Um verde bem claro para a navegação */
     padding: 15px 20px;
     border-bottom: 1px solid #d0e0de;
 }
