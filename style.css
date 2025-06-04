@@ -4,14 +4,14 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Uma fonte moderna e legível */
     margin: 0;
     padding: 0;
-    background-color: #f3fdd6; /* Um fundo bem claro e suave */
-    color: #082502;
+    background-color: #fff0f0; /* Um fundo bem claro e suave */
+    color: #250202;
     line-height: 1.7; /* Melhora a leitura do texto */
 }
 
 /* Estilos do cabeçalho */
 header {
-    background-color: #a2d8b9; /* Um verde vibrante e acolhedor */
+    background-color: #fcebc7; /* Um verde vibrante e acolhedor */
     color: white;
     padding: 30px 20px;
     text-align: center;
@@ -30,9 +30,9 @@ header p {
 
 /* Estilos da barra de navegação */
 nav {
-    background-color: #d1f8ba; /* Um verde bem claro para a navegação */
+    background-color: #f1cdcd; /* Um verde bem claro para a navegação */
     padding: 15px 20px;
-    border-bottom: 1px solid #d0e0de;
+    border-bottom: 1px solid #e0d0d0;
 }
 
 nav ul {
@@ -49,13 +49,13 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #434a54; /* Um tom de cinza escuro */
+    color: #544343; /* Um tom de cinza escuro */
     font-weight: bold;
     transition: color 0.3s ease-in-out;
 }
 
 nav ul li a:hover {
-    color: #2c3e50; /* Um azul escuro ao passar o mouse */
+    color: #502c2c; /* Um azul escuro ao passar o mouse */
 }
 
 /* Estilos da área principal de conteúdo */
@@ -78,7 +78,7 @@ main {
 }
 
 .hero h2 {
-    color: #27ae60; /* Outro tom de verde */
+    color: #e0e0e0; /* Outro tom de verde */
     margin-bottom: 15px;
     font-size: 2.2em;
 }
@@ -91,7 +91,7 @@ main {
 
 .call-to-action a {
     display: inline-block;
-    background-color: #3498db; /* Um azul chamativo */
+    background-color: #d34b4b; /* Um azul chamativo */
     color: white;
     padding: 15px 30px;
     text-decoration: none;
@@ -101,22 +101,22 @@ main {
 }
 
 .call-to-action a:hover {
-    background-color: #2980b9; /* Um tom de azul mais escuro ao passar o mouse */
+    background-color: #b92929; /* Um tom de azul mais escuro ao passar o mouse */
 }
 
 /* Estilos dos títulos de seção */
 .section-title {
-    color: #2ecc71;
+    color: #f89ac9;
     margin-top: 40px;
     margin-bottom: 20px;
-    border-bottom: 2px solid #2ecc71;
+    border-bottom: 2px solid #ffa3c1;
     padding-bottom: 10px;
     font-size: 1.8em;
 }
 
 /* Estilos do rodapé */
 footer {
-    background-color: #2c3e50; /* Um azul escuro para o rodapé */
+    background-color: #502c2c; /* Um azul escuro para o rodapé */
     color: white;
     text-align: center;
     padding: 20px 0;
